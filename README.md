@@ -1,8 +1,12 @@
 # AWS CloudOps Engineer Associate
 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+## 📌 Introduction
+
 This repository contains notes and study resources I used to prepare for the **AWS CloudOps Engineer Associate** certification. Its purpose is to document my learning journey and provide materials for others who are also studying for this exam.
 
-## 📌 Exam Topics
+## 💬 Exam Topics
 
 | #  | Exam Topics                                      | Contents                                                |
 |----|--------------------------------------------------|---------------------------------------------------------|
